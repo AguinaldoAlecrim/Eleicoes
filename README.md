@@ -30,7 +30,7 @@ Segue um exemplo e um dos registros:
 ```json
     "uf": "AC",
     "nome": "ACRE",
-    "code_municipio": [
+    "municipio": [
       {
         "codigo": "01066",
         "nome": "PORTO WALTER",
