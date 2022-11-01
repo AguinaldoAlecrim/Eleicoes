@@ -25,3 +25,26 @@ A execução do arquivo é muito simples:
 ```
 node main.js
 ```
+
+Segue um exemplo e um dos registros:
+```json
+    "uf": "AC",
+    "nome": "ACRE",
+    "code_municipio": [
+      {
+        "codigo": "01066",
+        "nome": "PORTO WALTER",
+        "zonas": [
+          {
+            "zona": "0004",
+            "secoes": [
+              {
+                "secao": "0077",
+                "urlrdv": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=ac;ufbu=ac;mubu=01066;zn=0004;se=0077/dados-de-urna/rdv",
+                "urlboletim": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=ac;ufbu=ac;mubu=01066;zn=0004;se=0077/dados-de-urna/boletim-de-urna"
+              }
+            ]
+          }
+        ]
+
+```
