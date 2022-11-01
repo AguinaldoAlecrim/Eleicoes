@@ -1,0 +1,59 @@
+[
+  {
+    "uf": "MG",
+    "nome": "MINAS GERAIS",
+    "municipio": [
+      {
+        "codigo": "40274",
+        "nome": "ALBERTINA",
+        "zonas": [
+          {
+            "zona": "0013",
+            "secoes": [
+              {
+                "secao": "0105",
+                "urlrdv": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0105/dados-de-urna/rdv",
+                "urlboletim": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0105/dados-de-urna/boletim-de-urna"
+              },
+              {
+                "secao": "0106",
+                "urlrdv": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0106/dados-de-urna/rdv",
+                "urlboletim": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0106/dados-de-urna/boletim-de-urna"
+              },
+              {
+                "secao": "0107",
+                "urlrdv": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0107/dados-de-urna/rdv",
+                "urlboletim": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0107/dados-de-urna/boletim-de-urna"
+              },
+              {
+                "secao": "0108",
+                "urlrdv": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0108/dados-de-urna/rdv",
+                "urlboletim": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0108/dados-de-urna/boletim-de-urna"
+              },
+              {
+                "secao": "0109",
+                "urlrdv": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0109/dados-de-urna/rdv",
+                "urlboletim": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0109/dados-de-urna/boletim-de-urna"
+              },
+              {
+                "secao": "0110",
+                "urlrdv": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0110/dados-de-urna/rdv",
+                "urlboletim": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0110/dados-de-urna/boletim-de-urna"
+              },
+              {
+                "secao": "0111",
+                "urlrdv": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0111/dados-de-urna/rdv",
+                "urlboletim": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0111/dados-de-urna/boletim-de-urna"
+              },
+              {
+                "secao": "0112",
+                "urlrdv": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0112/dados-de-urna/rdv",
+                "urlboletim": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao;e=e545;uf=mg;ufbu=mg;mubu=40274;zn=0013;se=0112/dados-de-urna/boletim-de-urna"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
